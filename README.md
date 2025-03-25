@@ -19,8 +19,8 @@ This project implements a Digital Signal Processing (DSP)-based system to detect
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/profanity-audio-filter.git
-cd profanity-audio-filter
+git clone https://github.com/quandao21/DSP-project-profanity-segmentation.git
+cd DSP-project-profanity-segmentation
 ```
 ### 2. Create and Activate Virtual Environment
 - For Windows:
